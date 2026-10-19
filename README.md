@@ -1,6 +1,6 @@
 # Hi there, I'm [Eliah D. Cruz](https://github.com/eliah-cruz/) <img width="25px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
 
-<img src="https://raw.githubusercontent.com/aayushgoyal/aayushgoyal/master/github.gif" width="130" height="130" align="right" alt="github">
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
 #### 💻 Software Engineering Student
 
@@ -29,10 +29,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=eliah-cruz&hide=stars&show_icons=true&theme=dracula&line_height=28&count_private=true" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliah-cruz&count_private=true&theme=dracula&layout=compact" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eliah-cruz&theme=dracula&hide_border=true" height="150" />
 </p>
 
 ---
