@@ -1,4 +1,4 @@
-# Hi there, I'm [Eliah D. Cruz](https://github.com/eliah-cruz/)<img width="25px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
+# Hi there, I'm [Eliah D. Cruz](https://github.com/eliah-cruz/) <img width="25px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
 
 <img src="https://raw.githubusercontent.com/aayushgoyal/aayushgoyal/master/github.gif" width="130" height="130" align="right" alt="github">
 
