@@ -22,14 +22,6 @@
   <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white" alt="Render PaaS" />
 </p>
 
----
-
-#### 📊 GitHub Stats & Streaks
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eliah-cruz&hide=stars&show_icons=true&theme=dracula&line_height=28&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliah-cruz&count_private=true&theme=dracula&layout=compact" height="165" />
-</p>
 
 ---
 
